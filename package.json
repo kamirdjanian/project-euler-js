@@ -1,0 +1,7 @@
+{
+  "name": "project-euler-js",
+  "version": "1.0.0",
+  "description": "Repo for solving Project Euler problems.",
+  "main": "index.js",
+  "license": "MIT"
+}
